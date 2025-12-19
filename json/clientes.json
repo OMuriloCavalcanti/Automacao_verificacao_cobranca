@@ -1,0 +1,102 @@
+[
+  {
+    "nome":"João Silva",
+    "cpf":"123.456.789-01",
+    "rua":"Rua das Flores",
+    "bairro":"Centro",
+    "cidade":"São Paulo",
+    "numeroCasa":123,
+    "complemento":"Apto 12",
+    "cep":"01001-000"
+  },
+  {
+    "nome":"Maria Oliveira",
+    "cpf":"234.567.890-12",
+    "rua":"Av. Brasil",
+    "bairro":"Jardins",
+    "cidade":"São Paulo",
+    "numeroCasa":456,
+    "complemento":"",
+    "cep":"01430-000"
+  },
+  {
+    "nome":"Carlos Pereira",
+    "cpf":"345.678.901-23",
+    "rua":"Rua Bahia",
+    "bairro":"Savassi",
+    "cidade":"Belo Horizonte",
+    "numeroCasa":78,
+    "complemento":"Casa",
+    "cep":"30140-000"
+  },
+  {
+    "nome":"Ana Costa",
+    "cpf":"456.789.012-34",
+    "rua":"Rua das Acácias",
+    "bairro":"Boa Viagem",
+    "cidade":"Recife",
+    "numeroCasa":910,
+    "complemento":"Bloco B",
+    "cep":"51020-000"
+  },
+  {
+    "nome":"Pedro Santos",
+    "cpf":"567.890.123-45",
+    "rua":"Rua XV de Novembro",
+    "bairro":"Centro",
+    "cidade":"Curitiba",
+    "numeroCasa":55,
+    "complemento":"",
+    "cep":"80020-310"
+  },
+  {
+    "nome":"Fernanda Lima",
+    "cpf":"678.901.234-56",
+    "rua":"Av. Atlântica",
+    "bairro":"Copacabana",
+    "cidade":"Rio de Janeiro",
+    "numeroCasa":1000,
+    "complemento":"Apto 501",
+    "cep":"22010-000"
+  },
+  {
+    "nome":"Lucas Rocha",
+    "cpf":"789.012.345-67",
+    "rua":"Rua Goiás",
+    "bairro":"Setor Oeste",
+    "cidade":"Goiânia",
+    "numeroCasa":321,
+    "complemento":"Fundos",
+    "cep":"74110-010"
+  },
+  {
+    "nome":"Juliana Alves",
+    "cpf":"890.123.456-78",
+    "rua":"Rua Ceará",
+    "bairro":"Aldeota",
+    "cidade":"Fortaleza",
+    "numeroCasa":88,
+    "complemento":"",
+    "cep":"60110-120"
+  },
+  {
+    "nome":"Rafael Martins",
+    "cpf":"901.234.567-89",
+    "rua":"Av. Ipiranga",
+    "bairro":"República",
+    "cidade":"São Paulo",
+    "numeroCasa":200,
+    "complemento":"Sala 3",
+    "cep":"01046-010"
+  },
+  {
+    "nome":"Camila Nunes",
+    "cpf":"012.345.678-90",
+    "rua":"Rua Amazonas",
+    "bairro":"Centro",
+    "cidade":"Manaus",
+    "numeroCasa":67,
+    "complemento":"Casa 2",
+    "cep":"69005-070"
+  }
+]
