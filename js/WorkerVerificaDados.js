@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 const puppeteer = require("puppeteer");
 const baseDir = path.resolve(__dirname, "..");
-const filePath = path.join(baseDir, "json", "clientes.json");
+const filePath = path.join(baseDir, "json", "json_clientes.json");
 const jsonData = fs.readFileSync(filePath, "utf-8");
 const url = "https://www.google.com";
 const clientes = JSON.parse(jsonData);
@@ -31,5 +31,6 @@ async function main() {
         Se não bater vai para pessoas para revisar, 
         dai faz o próximo tratamento, de ou arrumar com base no site ou não sei oq
     */
+   await browser.close();
 }
 main();

@@ -4,7 +4,7 @@ import pandas as pd
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 excel_path = BASE_DIR / "excel" / "tabela_clientes.xlsx"
-json_path = BASE_DIR / "json" / "clientes.json"
+json_path = BASE_DIR / "json" / "json_clientes.json"
 
 df = pd.read_excel(excel_path)
 
